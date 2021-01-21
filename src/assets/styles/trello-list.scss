@@ -1,0 +1,40 @@
+.trello {
+  height: 492px;
+  &__title {
+    margin-bottom: 14px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    h1 {
+      color: #191716;
+      font-size: 18px;
+      font-weight: 300;
+      letter-spacing: 0;
+      line-height: 24px;
+    }
+  }
+  &__cards {
+    overflow-y: auto;
+    border: 1px solid #cacaca;
+    border-radius: 20px;
+    padding: 16px;
+    width: 100%;
+    height: 100%;
+  }
+  &__cards-span {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+
+    h4 {
+      color: #191716;
+      font-size: 12px;
+      letter-spacing: 0;
+      line-height: 16px;
+      margin: 0;
+    }
+    img {
+      margin-left: 10px;
+    }
+  }
+}

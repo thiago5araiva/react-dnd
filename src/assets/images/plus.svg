@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>97E1B0DC-C4F1-45C9-BEEB-EF9AF141C280</title>
+    <g id="🖥---Templates---Clientes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_1-Gestor_de_pedidos" transform="translate(-1240.000000, -167.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1280" height="672"></rect>
+            <g id="O-/-Card-/-Orders-/-Default-Copy-4" transform="translate(1056.000000, 152.000000)">
+                <g id="A-/-Box-/-Rounded-/-White---shadow" stroke="#CACACA">
+                    <rect id="A-/-Box-/-Rounded-/-outline-grey" x="0" y="0" width="208" height="48" rx="20"></rect>
+                </g>
+                <g id="A-/-Icon-/-Small--/-minus" transform="translate(184.000000, 16.000000)" fill="#191716">
+                    <path d="M8,1 C8.55227974,1 9,1.45270873 9,2.01114192 L9,2.01114192 L9,7 L13.9058581,7 C14.4244032,7 14.8517879,7.38604451 14.9101972,7.8833798 L14.917,8 C14.917,8.55227974 14.4642913,9 13.9058581,9 L13.9058581,9 L9,9 L9,13.9888581 C9,14.5074032 8.61395549,14.9347879 8.1166202,14.9931972 L8,15 C7.44772026,15 7,14.5472913 7,13.9888581 L7,13.9888581 L7,9 L1.92814192,9 C1.40959681,9 0.982212086,8.61395549 0.923802763,8.1166202 L0.917,8 C0.917,7.44772026 1.36970873,7 1.92814192,7 L1.92814192,7 L7,7 L7,2.01114192 C7,1.49259681 7.38604451,1.06521209 7.8833798,1.00680276 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

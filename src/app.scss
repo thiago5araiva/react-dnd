@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500;700;900&display=swap");
+@import "~bootstrap/scss/bootstrap";
+
+* {
+  font-family: "Kanit", sans-serif;
+  margin: 0;
+  padding: 0;
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.Trello {
+  &__Container {
+    height: 136px;
+    background: linear-gradient(135deg, #e0e0e0 0%, #ffffff 100%);
+    padding-top: 24px;
+    margin-bottom: 14px;
+  }
+  .Header {
+    align-items: center;
+    &__Button {
+      height: 40px;
+      width: 144px;
+      background-color: #ff4b3e;
+      border-radius: 20px;
+      border: #ff4b3e;
+      font-size: 14px;
+      font-weight: 300;
+      &:focus,
+      &:active {
+        box-shadow: none;
+        background-color: #ff4b3e !important;
+      }
+    }
+    &__Inbox,
+    &__user {
+      cursor: pointer;
+      img {
+        margin-right: 8px;
+      }
+    }
+    &__User {
+      span {
+        font-weight: bold;
+        margin-right: 8px;
+      }
+    }
+  }
+}
+
+// .Trello {
+//   .Trello__Container {
+
+//   }
+
+//   .Trello__header {
+//   }
+//   .wrapper-container {
+//   }
+
+//   .wrapper {
+//     width: 80px;
+//     background-color: red;
+//     margin: 0 24px;
+//   }
+// }
+
+@import "./assets/styles/trello-list.scss";
+@import "./assets/styles//trello-card.scss";

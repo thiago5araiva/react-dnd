@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ED4D41ED-D32D-4B1B-98A0-A9AE2C997BF5</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="184" height="56" rx="5"></rect>
+        <filter x="-4.6%" y="-11.6%" width="109.2%" height="130.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0991313374 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🖥---Templates---Clientes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04_1-Gestor_de_pedidos" transform="translate(-184.000000, -247.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1280" height="672"></rect>
+            <g id="O-/-Card-/-Orders-/-Default" transform="translate(128.000000, 150.000000)">
+                <g id="A-/-Box-/-Rounded-/-White---shadow" transform="translate(0.000000, 34.000000)" stroke="#CACACA">
+                    <rect id="A-/-Box-/-Rounded-/-outline-grey" x="0" y="0" width="208" height="392" rx="20"></rect>
+                </g>
+                <g id="M-/-Lists-/-Order-/-Small-/-Default" transform="translate(8.000000, 74.000000)">
+                    <g id="A-/-Box-/-primary-/-Branco---shadow">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="A-/-Icon-/-Small--/-Clock" transform="translate(48.000000, 24.000000)" fill="#191716">
+                        <path d="M11.9998933,4 C16.4110275,4 19.9998933,7.58886587 19.9998933,12 C19.9998933,16.4114945 16.4110275,20 11.9998933,20 C7.5887592,20 3.99989333,16.4114945 3.99989333,12 C3.99989333,7.58886587 7.5887592,4 11.9998933,4 Z M11.9998933,6.10215296 C8.74793405,6.10215296 6.10204629,8.74804072 6.10204629,12 C6.10204629,15.2523196 8.74793405,17.897847 11.9998933,17.897847 C15.2518526,17.897847 17.8977404,15.2523196 17.8977404,12 C17.8977404,8.74804072 15.2518526,6.10215296 11.9998933,6.10215296 Z M12.001803,7.78808889 C12.5547351,7.78808889 13.0036061,8.26275749 13.0036061,8.84746786 L13.0036061,8.84746786 L13.0036061,11.6693309 L13.998197,11.6693309 C14.5514725,11.6693309 15,12.1436364 15,12.7287099 C15,13.3137835 14.5514725,13.7880889 13.998197,13.7880889 L13.998197,13.7880889 L12.1079248,13.7880889 C11.8922469,13.7880889 11.6937409,13.7143645 11.5302653,13.5919749 C11.2160213,13.4132932 11,13.0664619 11,12.6626122 L11,12.6626122 L11,8.84746786 C11,8.26275749 11.4485275,7.78808889 12.001803,7.78808889 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
